@@ -1,0 +1,130 @@
+[
+  {
+    "id": "bcd-bank",
+    "name": "Bank of Commerce & Development",
+    "logo": "/logos/banks/bcd-bank.svg",
+    "colors": ["#047857", "#10B981", "#D1FAE5"],
+    "paymentMethods": ["sadad", "mobicash"],
+    "hasScreenshots": true,
+    "screenshots": ["/apps/bcd-bank/splash-screen.svg", "/apps/bcd-bank/home.svg"],
+    "dateAdded": "2025-05-10"
+  },
+  {
+    "id": "wahda-bank",
+    "name": "Wahda Bank",
+    "logo": "/logos/banks/wahda-bank.svg",
+    "colors": ["#0D9488", "#14B8A6"],
+    "paymentMethods": ["sadad", "mobicash"],
+    "hasScreenshots": false,
+    "dateAdded": "2025-07-05"
+  },
+  {
+    "id": "sahara-bank",
+    "name": "Sahara Bank",
+    "logo": "/logos/banks/sahara-bank.svg",
+    "colors": ["#B45309", "#F59E0B", "#FDE68A"],
+    "paymentMethods": ["sadad", "mobicash"],
+    "hasScreenshots": false,
+    "dateAdded": "2025-11-01"
+  },
+  {
+    "id": "atib-bank",
+    "name": "ATIB Bank",
+    "logo": "/logos/banks/atib-bank.svg",
+    "colors": ["#1E3A5F", "#3B82F6"],
+    "paymentMethods": ["sadad"],
+    "hasScreenshots": false,
+    "dateAdded": "2026-02-13",
+    "isNew": true
+  },
+  {
+    "id": "group-bank",
+    "name": "Group Bank",
+    "logo": "/logos/banks/group-bank.svg",
+    "colors": ["#0CA9E8", "#FBFDFD"],
+    "paymentMethods": ["sadad"],
+    "hasScreenshots": false,
+    "dateAdded": "2026-02-13",
+    "isNew": true
+  },
+  {
+    "id": "daman-islamic-bank",
+    "name": "Daman Islamic Bank",
+    "logo": "/logos/banks/daman-islamic-bank.svg",
+    "colors": ["#047857", "#10B981"],
+    "paymentMethods": ["sadad"],
+    "hasScreenshots": false,
+    "dateAdded": "2026-02-13",
+    "isNew": true
+  },
+  {
+    "id": "investment-bank",
+    "name": "Investment Bank",
+    "logo": "/logos/banks/investment-bank.svg",
+    "colors": ["#1E3A5F", "#3B82F6"],
+    "paymentMethods": ["sadad"],
+    "hasScreenshots": false,
+    "dateAdded": "2026-02-13",
+    "isNew": true
+  },
+  {
+    "id": "islamic-bank",
+    "name": "Islamic Bank",
+    "logo": "/logos/banks/islamic-bank.svg",
+    "colors": ["#047857", "#10B981"],
+    "paymentMethods": ["sadad"],
+    "hasScreenshots": false,
+    "dateAdded": "2026-02-13",
+    "isNew": true
+  },
+  {
+    "id": "unknown-bank",
+    "name": "Unknown Bank",
+    "logo": "/logos/banks/unknown-bank.svg",
+    "colors": ["#0E3E52", "#3B82F6"],
+    "paymentMethods": ["sadad"],
+    "hasScreenshots": false,
+    "dateAdded": "2026-02-13",
+    "isNew": true
+  },
+  {
+    "id": "north-bank",
+    "name": "North Bank",
+    "logo": "/logos/banks/north-bank.svg",
+    "colors": ["#1E3A5F", "#3B82F6"],
+    "paymentMethods": ["sadad"],
+    "hasScreenshots": false,
+    "dateAdded": "2026-02-13",
+    "isNew": true
+  },
+  {
+    "id": "tadamun-bank",
+    "name": "Tadamun Bank",
+    "logo": "/logos/banks/tadamun-bank.svg",
+    "colors": ["#1E3A5F", "#3B82F6"],
+    "paymentMethods": ["sadad"],
+    "hasScreenshots": false,
+    "dateAdded": "2026-02-13",
+    "isNew": true
+  },
+  {
+    "id": "united-bank",
+    "name": "United Bank",
+    "logo": "/logos/banks/united-bank.svg",
+    "colors": ["#1E3A5F", "#3B82F6"],
+    "paymentMethods": ["sadad"],
+    "hasScreenshots": false,
+    "dateAdded": "2026-02-13",
+    "isNew": true
+  },
+  {
+    "id": "yaqqen-bank",
+    "name": "Yaqqen Bank",
+    "logo": "/logos/banks/yaqqen-bank.svg",
+    "colors": ["#1E3A5F", "#3B82F6"],
+    "paymentMethods": ["sadad"],
+    "hasScreenshots": false,
+    "dateAdded": "2026-02-13",
+    "isNew": true
+  }
+]

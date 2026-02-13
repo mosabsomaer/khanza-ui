@@ -1,0 +1,104 @@
+[
+  {
+    "id": "sadad",
+    "name": "Sadad",
+    "logo": "/logos/payment-methods/sadad.svg",
+    "colors": ["#00A651", "#6EC1E4"],
+    "dateAdded": "2025-04-01"
+  },
+  {
+    "id": "mobicash",
+    "name": "MobiCash",
+    "logo": "/logos/payment-methods/mobicash.svg",
+    "colors": ["#FF6600", "#FFFFFF"],
+    "dateAdded": "2025-07-20"
+  },
+  {
+    "id": "al-seraj-pay",
+    "name": "Al Seraj Pay",
+    "logo": "/logos/payment-methods/al-seraj-pay.svg",
+    "colors": ["#1E3A5F", "#FFFFFF"],
+    "dateAdded": "2026-02-13",
+    "isNew": true
+  },
+  {
+    "id": "masrafy-pay",
+    "name": "Masrafy Pay",
+    "logo": "/logos/payment-methods/masrafy-pay.svg",
+    "colors": ["#1E3A5F", "#3B82F6"],
+    "dateAdded": "2026-02-13",
+    "isNew": true
+  },
+  {
+    "id": "masrafy-plus",
+    "name": "Masrafy Plus",
+    "logo": "/logos/payment-methods/masrafy-plus.svg",
+    "colors": ["#1E3A5F", "#3B82F6"],
+    "dateAdded": "2026-02-13",
+    "isNew": true
+  },
+  {
+    "id": "mobimal",
+    "name": "Mobimal",
+    "logo": "/logos/payment-methods/mobimal.svg",
+    "colors": ["#1E3A5F", "#3B82F6"],
+    "dateAdded": "2026-02-13",
+    "isNew": true
+  },
+  {
+    "id": "nab4pay",
+    "name": "Nab4Pay",
+    "logo": "/logos/payment-methods/nab4pay.svg",
+    "colors": ["#1E3A5F", "#3B82F6"],
+    "dateAdded": "2026-02-13",
+    "isNew": true
+  },
+  {
+    "id": "onepay",
+    "name": "OnePay",
+    "logo": "/logos/payment-methods/onepay.svg",
+    "colors": ["#1E3A5F", "#3B82F6"],
+    "dateAdded": "2026-02-13",
+    "isNew": true
+  },
+  {
+    "id": "sahara-pay",
+    "name": "Sahara Pay",
+    "logo": "/logos/payment-methods/sahara-pay.svg",
+    "colors": ["#B45309", "#F59E0B"],
+    "dateAdded": "2026-02-13",
+    "isNew": true
+  },
+  {
+    "id": "yussor-pay",
+    "name": "Yussor Pay",
+    "logo": "/logos/payment-methods/yussor-pay.svg",
+    "colors": ["#1E3A5F", "#3B82F6"],
+    "dateAdded": "2026-02-13",
+    "isNew": true
+  },
+  {
+    "id": "edfa3li",
+    "name": "Edfa3li",
+    "logo": "/logos/payment-methods/edfa3li.svg",
+    "colors": ["#1E3A5F", "#3B82F6"],
+    "dateAdded": "2026-02-13",
+    "isNew": true
+  },
+  {
+    "id": "ly-pay",
+    "name": "LY Pay",
+    "logo": "/logos/payment-methods/ly-pay.svg",
+    "colors": ["#1E3A5F", "#3B82F6"],
+    "dateAdded": "2026-02-13",
+    "isNew": true
+  },
+  {
+    "id": "tlync",
+    "name": "Tlync",
+    "logo": "/logos/payment-methods/tlync.svg",
+    "colors": ["#1E3A5F", "#3B82F6"],
+    "dateAdded": "2026-02-13",
+    "isNew": true
+  }
+]
