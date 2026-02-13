@@ -1,0 +1,45 @@
+[
+  {
+    "id": "visa",
+    "name": "Visa",
+    "logo": "/logos/payment-methods/visa.svg",
+    "colors": ["#1A1F71", "#F7B600"],
+    "dateAdded": "2025-03-15"
+  },
+  {
+    "id": "mastercard",
+    "name": "Mastercard",
+    "logo": "/logos/payment-methods/mastercard.svg",
+    "colors": ["#EB001B", "#F79E1B"],
+    "dateAdded": "2025-03-15"
+  },
+  {
+    "id": "sadad",
+    "name": "Sadad",
+    "logo": "/logos/payment-methods/sadad.svg",
+    "colors": ["#00A651", "#6EC1E4"],
+    "dateAdded": "2025-04-01"
+  },
+  {
+    "id": "moamalat",
+    "name": "Moamalat",
+    "logo": "/logos/payment-methods/moamalat.svg",
+    "colors": ["#003366", "#E67E22"],
+    "dateAdded": "2025-05-10"
+  },
+  {
+    "id": "mobicash",
+    "name": "MobiCash",
+    "logo": "/logos/payment-methods/mobicash.svg",
+    "colors": ["#FF6600", "#FFFFFF"],
+    "dateAdded": "2025-07-20"
+  },
+  {
+    "id": "tadawul",
+    "name": "Tadawul",
+    "logo": "/logos/payment-methods/tadawul.svg",
+    "colors": ["#008000", "#FFD700"],
+    "dateAdded": "2025-09-15",
+    "isNew": true
+  }
+]
