@@ -30,7 +30,7 @@ export function useRouter(): RouterState {
 
   const navigate = useCallback((path: string) => {
     window.history.pushState(null, '', path);
-    setState(parsePath());
+    window.dispatchEvent(new PopStateEvent('popstate'));
   }, []);
 
   return { ...state, navigate };

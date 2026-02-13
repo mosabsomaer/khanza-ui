@@ -119,3 +119,12 @@
 .scrollbar-none::-webkit-scrollbar {
   display: none;
 }
+
+/* Card pattern background */
+.bg-card-pattern {
+  background-color: #0A0A0A;
+  background-image: url('/card-pattern.svg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

@@ -97,7 +97,7 @@ export function DetailsPanel({ item, onClose }: DetailsPanelProps) {
       </div>
 
       {/* Logo Preview */}
-      <div className="border border-[#27272A] rounded-md p-8 mb-6 flex items-center justify-center bg-tech-grid aspect-square">
+      <div className="border border-[#27272A] rounded-md p-8 mb-6 flex items-center justify-center bg-card-pattern aspect-square">
         <img
           src={item.logo}
           alt={`${item.name} logo`}
